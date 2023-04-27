@@ -1,6 +1,6 @@
 package modul12_Abstrakt;
 
-public class BreadInterface_Child implements BreadInterface {
+public class BreadInterface_Child implements BreadInterface, BreadInterfac_Parent {
     @Override
     public void mel() {
 

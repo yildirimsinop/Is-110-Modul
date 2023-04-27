@@ -6,9 +6,11 @@ public class MainBread {
 
         Child bread = new Child();
 
-        bread.mel();
+        bread.vekt();
         bread.salt();
         bread.gjaar();
-        bread.vekt();
+        bread.mel();
+
+
     }
 }
